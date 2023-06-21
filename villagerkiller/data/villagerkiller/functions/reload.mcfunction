@@ -1,0 +1,1 @@
+say villager killer enabled
